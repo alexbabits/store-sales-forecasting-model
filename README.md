@@ -5,3 +5,5 @@ Ranked 159 out of 803 with a RMSLE score of 0.4335
 Removed training data because github doesn't allow >100MB files without workaround.
 
 Competition found here: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+
+![](spearman_correlation.png)
